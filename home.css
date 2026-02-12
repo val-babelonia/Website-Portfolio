@@ -1,0 +1,90 @@
+#title {
+    text-align: center;
+    padding-left: 430px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-style: italic;
+    margin-top: 0px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-shadow: 4px 7px 1px black;
+    
+}
+
+img {
+    float: right;
+   padding-right: 400px;
+   padding-top: 50px;
+   clip-path: polygon(100% 0%, 75% 50%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+   
+}
+#option {
+    float: left;
+    padding-top: 30px;
+    background-color: whitesmoke;
+    background-size: inherit;
+    padding-right: 5px;
+    padding-bottom: 30px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 30px;
+    opacity: 80%;
+}
+p {
+    padding-bottom: 20px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+.bgtext {
+    
+    padding: 2px 6px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.5); /* 50% opacity */
+    
+}
+.open {
+    color: white;
+    margin-top: 20px;
+    padding-right: 140px;
+}
+
+#option2 {
+    mix-blend-mode: initial;
+    display: inline-block;
+    word-spacing: 347px;
+    background-color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 1px;
+    margin-top: 30px;
+    opacity: 80%;
+}
+
+button {
+    width: 60px;
+    height: 30px;
+    background-color: lightskyblue;
+    font-size: small;
+}
+
+#homepage {
+    color: white;
+    border: 2px solid black;
+    padding-right: 50px;
+    margin-top: 10px;
+    text-shadow: 1px 1px black;
+}
+body {
+    background-image: url("images/blas.png");
+    background-size: 1370px 640px;
+    background-repeat: no-repeat;
+}
+.open h3 {
+    text-shadow: 1px 1px black;
+}
